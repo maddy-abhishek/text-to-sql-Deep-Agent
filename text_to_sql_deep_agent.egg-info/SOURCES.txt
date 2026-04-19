@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+text_to_sql_deep_agent.egg-info/PKG-INFO
+text_to_sql_deep_agent.egg-info/SOURCES.txt
+text_to_sql_deep_agent.egg-info/dependency_links.txt
+text_to_sql_deep_agent.egg-info/requires.txt
+text_to_sql_deep_agent.egg-info/top_level.txt

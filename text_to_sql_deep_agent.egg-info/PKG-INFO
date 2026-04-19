@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: text-to-sql-deep-agent
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: deepagents>=0.3.5
+Requires-Dist: fastapi>=0.110.0
+Requires-Dist: langchain>=1.2.3
+Requires-Dist: langchain-community>=0.3.0
+Requires-Dist: langchain-google-genai>=4.2.2
+Requires-Dist: langchain-groq>=0.2.0
+Requires-Dist: langgraph>=1.0.6
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: requests>=2.31.0
+Requires-Dist: sqlalchemy>=2.0.0
+Requires-Dist: streamlit>=1.35.0
+Requires-Dist: uvicorn>=0.29.0
